@@ -11,12 +11,15 @@ img{
 
 main p{
   background-color: gainsboro;
+  color: rgb(255, 72, 0);
 }
 
 main li{
   border: thin solid black;
   padding: 1em;
   background-color: gainsboro;
+  color: blue;
+  text-decoration: underline;
 }
 
 footer{
