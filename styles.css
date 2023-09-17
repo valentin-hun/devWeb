@@ -14,7 +14,12 @@ main p{
   color: rgb(255, 72, 0);
 }
 
+header{
+  color: rgb(255, 72, 0);
+}
+
 main li{
+  box-shadow: 10px 5px 5px grey;
   border: thin solid black;
   padding: 1em;
   background-color: gainsboro;
@@ -23,5 +28,12 @@ main li{
 }
 
 footer{
+  color: rgb(255, 72, 0);
   border: thin solid black;
 }
+
+.img {
+  box-shadow: 10px 5px 5px grey;
+  height: 200px;
+  border-radius:20px;
+  }
